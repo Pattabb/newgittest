@@ -1,7 +1,7 @@
 # newgittest
 
 the rainbow
-
+red
 purple
 blue
 green
